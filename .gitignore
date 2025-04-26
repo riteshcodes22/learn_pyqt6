@@ -1,0 +1,21 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment folder
+venv/
+env/
+
+# IDE folders
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution files
+*.egg
+*.egg-info/
+dist/
+build/
